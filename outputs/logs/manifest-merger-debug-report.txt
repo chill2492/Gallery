@@ -1,0 +1,670 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/19813484af50a5bdcb4008eb41a6dc21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/09b3cc7440a816bc9ba15189df1fb61f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ec329b0a33855f4907c1d3012a7c6227/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c4784c7696d71f478681136f6d48615d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8c22c477c8fada6a2d8fd19f902fc3af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/e1039ba4d6d2e3fef9c00853157562db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/1f62808ff7f75d1ffa9af1880712ed9a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4c0ab90e198f7a4e2d0f0d27adb44d67/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a6e00f29dbc903200427c16ce5ae0f56/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8bd3ac3dacd28af2f537b8157a09a014/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/50b2219f4d6ccd9d2321da0b7f8073a4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0edbd04baa74805796ea1fcf3d4522a0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cf3d1a5988d3f5fcc4c7665e6f319cf6/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/43988f8122c96a1a2dbd6fba1892b48e/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/46f11b7f384a7b79cd24d8b35376ee83/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/06b81dfbccf8d9e42213eed545c1de75/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6c772ba1e77533861d2c77a6f53dd7bc/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/63558a3f21db48c5c1083a8af4b89049/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0b71c6403e8252227c391d9ff0d32dc4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6d56235cb922daaa2a6f073eaabea77a/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/68e54cbf21b46f1a96323028a5ead266/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/710b3e0c093e0ece86633d6e9f40df72/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5a92f0411e54b008eea71b30aaad97b5/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/e1546a0acabe313686bbe2f3b3785bd6/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/3d9d4f618cf03d54996c73fd5883456e/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/fbc22f5ee3a6968367388a1d8e9ef6e5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f3c5db1b8281ea2e79f667a655b14098/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cd44ae7edebac72fe046b3f6e9a82896/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/193695252d5f84b9bce1e7590c2a22cb/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7840c1484b893460626df7cc402b069f/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/71740fd21b0f123e6427c0f479a84747/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f70b6e8e5eff884ddb9dd2630031db4d/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/1ee93ae24fa895bf9efb811432f19383/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/9f71d853327ffad547ff33933b2b1f9c/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-storage:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8bad46fa0c777ca1f9ff84316f2a0851/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/446dd0fdcd6dea19586c6bf72647c0bb/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ac65fc772e36834f8da870373e0a07cb/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a2136e777c59a81505f64a9bc7b06224/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/dfe7864d398d864ff7da730439d41b2d/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/44edbe12732c9755cb7899bdddad0978/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c643e0c674ffa9389039c4c4bd91d18e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/09ee8449f7ae7ad498909af203ce7c4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/16c3c50f1b27f3a2316dc6a30f6d6254/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7e735d6f80ab281a0ecf9419e4e9270e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f9ceff32fc177c27a6d5b55423957278/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a2f0ccddbe187b852156844bd696d3f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c8cd8d899fcc74b356ce725054be5999/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/eefdd365298aa81177cd73ca93871f69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/84d5ef138d814ab79740404d0a32112c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c166eb6a9d696ad48a4b2b15488cce4d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/28ac8ee982a04e7363f2bb8a4afad043/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/07d0735fc5e7b04b87e6f3e85dfe2e79/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/331a4a06d643c1cc85c3b381064c8ddb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f70b6e8e5eff884ddb9dd2630031db4d/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f70b6e8e5eff884ddb9dd2630031db4d/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.google.android.gms:play-services:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/09b3cc7440a816bc9ba15189df1fb61f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/09b3cc7440a816bc9ba15189df1fb61f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ec329b0a33855f4907c1d3012a7c6227/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ec329b0a33855f4907c1d3012a7c6227/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c4784c7696d71f478681136f6d48615d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c4784c7696d71f478681136f6d48615d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/1f62808ff7f75d1ffa9af1880712ed9a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/1f62808ff7f75d1ffa9af1880712ed9a/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/50b2219f4d6ccd9d2321da0b7f8073a4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/50b2219f4d6ccd9d2321da0b7f8073a4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0edbd04baa74805796ea1fcf3d4522a0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0edbd04baa74805796ea1fcf3d4522a0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cf3d1a5988d3f5fcc4c7665e6f319cf6/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cf3d1a5988d3f5fcc4c7665e6f319cf6/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/43988f8122c96a1a2dbd6fba1892b48e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/43988f8122c96a1a2dbd6fba1892b48e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/46f11b7f384a7b79cd24d8b35376ee83/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/46f11b7f384a7b79cd24d8b35376ee83/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/06b81dfbccf8d9e42213eed545c1de75/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/06b81dfbccf8d9e42213eed545c1de75/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6c772ba1e77533861d2c77a6f53dd7bc/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6c772ba1e77533861d2c77a6f53dd7bc/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0b71c6403e8252227c391d9ff0d32dc4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0b71c6403e8252227c391d9ff0d32dc4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6d56235cb922daaa2a6f073eaabea77a/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6d56235cb922daaa2a6f073eaabea77a/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/710b3e0c093e0ece86633d6e9f40df72/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/710b3e0c093e0ece86633d6e9f40df72/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/e1546a0acabe313686bbe2f3b3785bd6/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/e1546a0acabe313686bbe2f3b3785bd6/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/3d9d4f618cf03d54996c73fd5883456e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/3d9d4f618cf03d54996c73fd5883456e/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/fbc22f5ee3a6968367388a1d8e9ef6e5/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/fbc22f5ee3a6968367388a1d8e9ef6e5/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f3c5db1b8281ea2e79f667a655b14098/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f3c5db1b8281ea2e79f667a655b14098/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cd44ae7edebac72fe046b3f6e9a82896/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cd44ae7edebac72fe046b3f6e9a82896/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/193695252d5f84b9bce1e7590c2a22cb/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/193695252d5f84b9bce1e7590c2a22cb/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7840c1484b893460626df7cc402b069f/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7840c1484b893460626df7cc402b069f/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/71740fd21b0f123e6427c0f479a84747/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/71740fd21b0f123e6427c0f479a84747/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f70b6e8e5eff884ddb9dd2630031db4d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f70b6e8e5eff884ddb9dd2630031db4d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ac65fc772e36834f8da870373e0a07cb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ac65fc772e36834f8da870373e0a07cb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a2136e777c59a81505f64a9bc7b06224/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a2136e777c59a81505f64a9bc7b06224/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/dfe7864d398d864ff7da730439d41b2d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/dfe7864d398d864ff7da730439d41b2d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/44edbe12732c9755cb7899bdddad0978/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/44edbe12732c9755cb7899bdddad0978/AndroidManifest.xml:22:5-23:19
+	android:supportsRtl
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:13:9-40
+activity#edu.vt.cs.cs5254.gallery.GalleryActivity
+ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:15:5-22:16
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:15:15-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:17:9-20:25
+action#android.intent.action.MAIN
+ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:18:13-64
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:18:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:19:13-73
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:19:23-70
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:24:5-27:11
+	android:value
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml:25:9-54
+uses-sdk
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/19813484af50a5bdcb4008eb41a6dc21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/19813484af50a5bdcb4008eb41a6dc21/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/09b3cc7440a816bc9ba15189df1fb61f/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/09b3cc7440a816bc9ba15189df1fb61f/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ec329b0a33855f4907c1d3012a7c6227/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ec329b0a33855f4907c1d3012a7c6227/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c4784c7696d71f478681136f6d48615d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c4784c7696d71f478681136f6d48615d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8c22c477c8fada6a2d8fd19f902fc3af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8c22c477c8fada6a2d8fd19f902fc3af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/e1039ba4d6d2e3fef9c00853157562db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/e1039ba4d6d2e3fef9c00853157562db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/1f62808ff7f75d1ffa9af1880712ed9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/1f62808ff7f75d1ffa9af1880712ed9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4c0ab90e198f7a4e2d0f0d27adb44d67/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4c0ab90e198f7a4e2d0f0d27adb44d67/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a6e00f29dbc903200427c16ce5ae0f56/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a6e00f29dbc903200427c16ce5ae0f56/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8bd3ac3dacd28af2f537b8157a09a014/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8bd3ac3dacd28af2f537b8157a09a014/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/50b2219f4d6ccd9d2321da0b7f8073a4/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/50b2219f4d6ccd9d2321da0b7f8073a4/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0edbd04baa74805796ea1fcf3d4522a0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0edbd04baa74805796ea1fcf3d4522a0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cf3d1a5988d3f5fcc4c7665e6f319cf6/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cf3d1a5988d3f5fcc4c7665e6f319cf6/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/43988f8122c96a1a2dbd6fba1892b48e/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/43988f8122c96a1a2dbd6fba1892b48e/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/46f11b7f384a7b79cd24d8b35376ee83/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/46f11b7f384a7b79cd24d8b35376ee83/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/06b81dfbccf8d9e42213eed545c1de75/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/06b81dfbccf8d9e42213eed545c1de75/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6c772ba1e77533861d2c77a6f53dd7bc/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6c772ba1e77533861d2c77a6f53dd7bc/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/63558a3f21db48c5c1083a8af4b89049/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/63558a3f21db48c5c1083a8af4b89049/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0b71c6403e8252227c391d9ff0d32dc4/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/0b71c6403e8252227c391d9ff0d32dc4/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6d56235cb922daaa2a6f073eaabea77a/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6d56235cb922daaa2a6f073eaabea77a/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/68e54cbf21b46f1a96323028a5ead266/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/68e54cbf21b46f1a96323028a5ead266/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/710b3e0c093e0ece86633d6e9f40df72/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/710b3e0c093e0ece86633d6e9f40df72/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5a92f0411e54b008eea71b30aaad97b5/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5a92f0411e54b008eea71b30aaad97b5/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/e1546a0acabe313686bbe2f3b3785bd6/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/e1546a0acabe313686bbe2f3b3785bd6/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/3d9d4f618cf03d54996c73fd5883456e/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/3d9d4f618cf03d54996c73fd5883456e/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/fbc22f5ee3a6968367388a1d8e9ef6e5/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/fbc22f5ee3a6968367388a1d8e9ef6e5/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f3c5db1b8281ea2e79f667a655b14098/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f3c5db1b8281ea2e79f667a655b14098/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cd44ae7edebac72fe046b3f6e9a82896/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cd44ae7edebac72fe046b3f6e9a82896/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/193695252d5f84b9bce1e7590c2a22cb/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/193695252d5f84b9bce1e7590c2a22cb/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7840c1484b893460626df7cc402b069f/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7840c1484b893460626df7cc402b069f/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/71740fd21b0f123e6427c0f479a84747/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/71740fd21b0f123e6427c0f479a84747/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f70b6e8e5eff884ddb9dd2630031db4d/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f70b6e8e5eff884ddb9dd2630031db4d/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/1ee93ae24fa895bf9efb811432f19383/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/1ee93ae24fa895bf9efb811432f19383/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/9f71d853327ffad547ff33933b2b1f9c/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/9f71d853327ffad547ff33933b2b1f9c/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8bad46fa0c777ca1f9ff84316f2a0851/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8bad46fa0c777ca1f9ff84316f2a0851/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/446dd0fdcd6dea19586c6bf72647c0bb/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/446dd0fdcd6dea19586c6bf72647c0bb/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ac65fc772e36834f8da870373e0a07cb/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ac65fc772e36834f8da870373e0a07cb/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a2136e777c59a81505f64a9bc7b06224/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a2136e777c59a81505f64a9bc7b06224/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/dfe7864d398d864ff7da730439d41b2d/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/dfe7864d398d864ff7da730439d41b2d/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/44edbe12732c9755cb7899bdddad0978/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/44edbe12732c9755cb7899bdddad0978/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c643e0c674ffa9389039c4c4bd91d18e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c643e0c674ffa9389039c4c4bd91d18e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/09ee8449f7ae7ad498909af203ce7c4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/09ee8449f7ae7ad498909af203ce7c4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/16c3c50f1b27f3a2316dc6a30f6d6254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/16c3c50f1b27f3a2316dc6a30f6d6254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7e735d6f80ab281a0ecf9419e4e9270e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7e735d6f80ab281a0ecf9419e4e9270e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f9ceff32fc177c27a6d5b55423957278/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/f9ceff32fc177c27a6d5b55423957278/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a2f0ccddbe187b852156844bd696d3f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a2f0ccddbe187b852156844bd696d3f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c8cd8d899fcc74b356ce725054be5999/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c8cd8d899fcc74b356ce725054be5999/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/eefdd365298aa81177cd73ca93871f69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/eefdd365298aa81177cd73ca93871f69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/84d5ef138d814ab79740404d0a32112c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/84d5ef138d814ab79740404d0a32112c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c166eb6a9d696ad48a4b2b15488cce4d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c166eb6a9d696ad48a4b2b15488cce4d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/28ac8ee982a04e7363f2bb8a4afad043/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/28ac8ee982a04e7363f2bb8a4afad043/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/07d0735fc5e7b04b87e6f3e85dfe2e79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/07d0735fc5e7b04b87e6f3e85dfe2e79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/331a4a06d643c1cc85c3b381064c8ddb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/331a4a06d643c1cc85c3b381064c8ddb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinahill/AndroidStudioProjects/Gallery/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/6db186b2179ae38e7c48b43773206c5a/AndroidManifest.xml:7:18-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/fbc22f5ee3a6968367388a1d8e9ef6e5/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/fbc22f5ee3a6968367388a1d8e9ef6e5/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/62287de0f6410d6ea9162afd6169038f/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/a8db2f8d8cf35eb70affe41b9dc9a614/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/4a753071f010edd56c3cf33903f287ae/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/7282a08baf722472d6d63848406dca84/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/2b8eddb76c0c716758492ef5b0ac5a15/AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/aea85c874086ca093dbd3d6ffd0a8b22/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8b8652a2206fad09eea1f8ff96dde935/AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/8e716031373e62a24d3c0347a3a6fed0/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/5202c5b1abc77a32ea039721717124f6/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/c2ff5ddbf83905506f30e8cd9e76c359/AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.edu.vt.cs.cs5254.gallery
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/73c6a427085b82b96b9e85f0461f0f3a/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/ae9151f560620c3dd599b92865db0a70/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/668ec290da10ebfaedc333ea5c908299/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:24:17-71
+permission#edu.vt.cs.cs5254.gallery.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:26:22-76
+uses-permission#edu.vt.cs.cs5254.gallery.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:31:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:edu.vt.cs.cs5254.gallery
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:34:27-58
+category#edu.vt.cs.cs5254.gallery
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:44:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/85d628d3a7039da08c29d2b35351e943/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/cb5b4987b8614ee3b69266faa1c11d61/AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/dfe7864d398d864ff7da730439d41b2d/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/dfe7864d398d864ff7da730439d41b2d/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/christinahill/.gradle/caches/transforms-2/files-2.1/dfe7864d398d864ff7da730439d41b2d/AndroidManifest.xml:20:20-65
