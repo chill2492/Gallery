@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="title_map">Map</string>
+    <string name="title_search">Search</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="refresh_button">Refresh</string>
+</resources>
